@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "version": "FDWhatsApp v1.0.0",
+      "code": 2,
+      "url": "https://quikbyte.tech",
+      "changelog": " - Option Replace Community Tab with Group Tab - Add Show Last Time Option - Fix Cover and Home Wallpaper Picker - Large Status Thumbnail View - Fix Hide Channel List - Fix Hide Recommended Channel List"
+    }
+  ]
+}
